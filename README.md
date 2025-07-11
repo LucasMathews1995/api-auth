@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authentication API
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,3 +73,6 @@ When contributing to this project, please follow the existing code style, [commi
 
 
 # primeiro-code-spaces
+=======
+# api-auth
+>>>>>>> 67f4117106dd3a25a86d2f9af9c9416519e69c17
